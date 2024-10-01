@@ -43,3 +43,4 @@ Initializes a QApplication, creates an instance of the Students class, and sets 
 Finally, it starts the application event loop.
 Conclusion
 This script effectively demonstrates the integration of a GUI application with a relational database using SQLite. It covers essential operations for managing student records and provides a user-friendly interface for interacting with the database. The structured approach and modular design make it a suitable reference for developing database-driven applications in Python.
+![alt text](https://github.com/MazenNassar/Student-Management-System/blob/main/image.png?raw=true)
